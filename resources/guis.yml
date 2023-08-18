@@ -449,3 +449,13 @@ guis:
   price: Free
   license: Proprietary
   order: 53
+- name: Visual Studio Code
+  url: https://code.visualstudio.com/
+  image_tag: https://code.visualstudio.com/assets/images/code-stable.png
+  platforms:
+  - Windows
+  - Mac
+  - Linux
+  price: Free
+  license: MIT
+  order: 54
